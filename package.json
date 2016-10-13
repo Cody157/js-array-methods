@@ -1,0 +1,15 @@
+{
+  "name": "js-array",
+  "version": "1.0.0",
+  "description": "Help understand JS array methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "cestes",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
